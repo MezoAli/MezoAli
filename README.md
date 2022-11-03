@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Typescript and Next js
 - 📫 you can reach me through:
  E-mail : moutaz.ali.dev@gmail.com
- WhatsApp : +201007176747
+ WhatsApp : +201028031340
 
 <!---
 MezoAli/MezoAli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
