@@ -8,7 +8,8 @@
    + REACT
    + NEXT-JS
    + REDUX
-- 🌱 I’m currently learning GIT and GITHUB
+   + Git & Github
+- 🌱 I’m currently learning Data Structure and Algorithms
 - 📫 you can reach me through:
  E-mail : moutaz.ali.dev@gmail.com
  WhatsApp : +201028031340
