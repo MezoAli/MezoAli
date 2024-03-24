@@ -5,11 +5,13 @@
    + CSS
    + JAVASCRIPT
    + TYPESCRIPT
+   + Tailwind css
    + REACT
    + NEXT-JS
    + REDUX
    + Git & Github
-- 🌱 I’m currently learning Data Structure and Algorithms
+   + Data Structure and Algorithms
+- 🌱 I’m currently learning Backend using Node Js, Express and MongoDB
 - 📫 you can reach me through:
  E-mail : moutaz.ali.dev@gmail.com
  WhatsApp : +201028031340
